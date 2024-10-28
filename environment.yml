@@ -1,0 +1,16 @@
+name: interpersonal_synchrony
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.2
+  - r-tidyverse
+  - r-readr
+  - r-prisma2020
+  - r-metafor
+  - r-tidyr
+  - r-kableextra
+  - r-MAd
+  - r-dplyr
+  - r-knitr
+  - r-rmarkdown
