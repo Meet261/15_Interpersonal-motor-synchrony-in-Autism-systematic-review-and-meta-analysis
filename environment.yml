@@ -6,7 +6,6 @@ dependencies:
   - r-base=4.2
   - r-tidyverse
   - r-readr
-  - r-prisma2020
   - r-metafor
   - r-tidyr
   - r-kableextra
