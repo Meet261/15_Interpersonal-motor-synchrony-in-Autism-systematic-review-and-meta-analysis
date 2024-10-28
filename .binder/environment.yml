@@ -4,6 +4,8 @@ channels:
   - defaults
 dependencies:
   - r-base=4.2
+  - r-essentials
+  - r-prisma2020
   - r-tidyverse
   - r-readr
   - r-metafor
